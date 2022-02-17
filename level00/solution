@@ -1,0 +1,5 @@
+find / -user flag00 2>/dev/null
+
+cat /usr/sbin/john
+
+/dev/shm/solve.py
